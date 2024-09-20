@@ -4,17 +4,17 @@
 winexe
 C#
 .cs
-C:\Users\Aidar\source\repos\CasionApp\CasionApp\obj\Debug\
+C:\Users\Aidar\source\repos\CasinoApp\CasionApp\CasionApp\obj\Debug\
 CasionApp
 none
 false
 DEBUG;TRACE
-C:\Users\Aidar\source\repos\CasionApp\CasionApp\App.xaml
-1219584333
-
-6-502434485
-13-1310406943
-MainWindow.xaml;
+C:\Users\Aidar\source\repos\CasinoApp\CasionApp\CasionApp\App.xaml
+7-755725358
+21304076067
+26-138924460
+18-1084822153
+MainWindow.xaml;Pages\LoginPage.xaml;Pages\MainPage.xaml;Pages\ProfilePage.xaml;Pages\RegestrationPage.xaml;Pages\RoulettePage.xaml;Windows\TransactionWindows.xaml;
 
 True
 

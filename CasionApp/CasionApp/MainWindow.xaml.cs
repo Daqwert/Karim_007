@@ -1,4 +1,5 @@
-﻿using System;
+﻿using CasionApp.Pages;
+using System;
 using System.Collections.Generic;
 using System.Linq;
 using System.Text;
@@ -23,6 +24,8 @@ namespace CasionApp
         public MainWindow()
         {
             InitializeComponent();
+            App.mainFrame = MainFrame;
+            MainFrame.Navigate(new LoginPage());
         }
     }
 }

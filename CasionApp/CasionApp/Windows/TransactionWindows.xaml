@@ -1,0 +1,27 @@
+﻿<Window x:Class="CasionApp.Windows.TransactionWindows"
+        xmlns="http://schemas.microsoft.com/winfx/2006/xaml/presentation"
+        xmlns:x="http://schemas.microsoft.com/winfx/2006/xaml"
+        xmlns:d="http://schemas.microsoft.com/expression/blend/2008"
+        xmlns:mc="http://schemas.openxmlformats.org/markup-compatibility/2006"
+        xmlns:local="clr-namespace:CasionApp.Windows"
+        mc:Ignorable="d"
+        Title="TransactionWindows" MinHeight="250" MinWidth="400">
+    <Grid>
+        <StackPanel VerticalAlignment="Center"
+                    Margin="10">
+            <TextBlock Text="{Binding Balance}"/>
+            <TextBlock Text="Введите сумму"/>
+            <TextBox x:Name="TBMoney"/>
+            <TextBlock Text="Введите номер счета"/>
+            <TextBox x:Name="TBNumberBank"/>
+            <Button x:Name="BReplenish"
+                    Click="BReplenish_Click"
+                    Content="Пополнить"/>
+            <Button x:Name="BSend"
+                    Click="BSend_Click"
+                    Content="Отправить"/>
+            
+
+        </StackPanel>
+    </Grid>
+</Window>

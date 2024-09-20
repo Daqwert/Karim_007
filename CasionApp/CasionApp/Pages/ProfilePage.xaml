@@ -1,0 +1,114 @@
+﻿<Page x:Class="CasionApp.Pages.ProfilePage"
+      xmlns="http://schemas.microsoft.com/winfx/2006/xaml/presentation"
+      xmlns:x="http://schemas.microsoft.com/winfx/2006/xaml"
+      xmlns:mc="http://schemas.openxmlformats.org/markup-compatibility/2006" 
+      xmlns:d="http://schemas.microsoft.com/expression/blend/2008" 
+      xmlns:local="clr-namespace:CasionApp.Pages"
+      mc:Ignorable="d" 
+      d:DesignHeight="450" d:DesignWidth="800"
+      Title="ProfilePage"
+      Loaded="Page_Loaded">
+
+    <Grid>
+        <Grid.RowDefinitions>
+            <RowDefinition Height="auto"/>
+            <RowDefinition />
+        </Grid.RowDefinitions>
+        <StackPanel>
+            <Button x:Name="BBack"
+                    Click="BBack_Click"
+                    Content="Назад"/>
+            <TextBlock Text="Логин"/>
+            <TextBlock Text="{Binding Login}"/>
+            <TextBlock Text="Пароль"/>
+            <TextBlock Text="{Binding Password}"/>
+            <Button x:Name="BEdit"
+                    Click="BEdit_Click"
+                    Content="Изменить"/>
+            <Button x:Name="BTopUp"
+                    Click="BTopUp_Click"
+                    Content="Пополнить/Снять"/>
+        </StackPanel>
+        <TabControl Grid.Row="1">
+                <TabItem Header="Операции">
+                    <Grid>
+                        <Grid.RowDefinitions>
+                            <RowDefinition Height="Auto"/>
+                            <RowDefinition/>
+                        </Grid.RowDefinitions>
+                        <StackPanel Orientation="Horizontal">
+                            <Button x:Name="BPrintTransaction"
+                                    Click="BPrintTransaction_Click"
+                                    Content="Печать"/>
+                        </StackPanel>
+                        <ListView Grid.Row="1" x:Name="LVTransaction">
+                            <ListView.ItemTemplate>
+                                <DataTemplate>
+                                    <StackPanel>
+                                        <TextBlock Text="{Binding DataTime, StringFormat='HH:mm dd.MM.yyyy '}"/>
+                                        <TextBlock Foreground="{Binding  ColorTransaction}"
+                           Text="{Binding AmountMoney}"/>
+                                    </StackPanel>
+                                </DataTemplate>
+                            </ListView.ItemTemplate>
+                        </ListView>
+                    </Grid>
+                </TabItem>
+                <TabItem Header="Игры">
+                <Grid>
+                    <Grid.RowDefinitions>
+                        <RowDefinition Height="Auto"/>
+                        <RowDefinition/>
+                    </Grid.RowDefinitions>
+                    <StackPanel Orientation="Horizontal">
+                            <Button x:Name="BPrintGames"
+                                    Click="BPrintGames_Click"
+                                    Content="Печать"/>
+                        </StackPanel>
+                        <ListView Grid.Row="1" 
+                                  ScrollViewer.HorizontalScrollBarVisibility="Disabled"
+                                  x:Name="LVGames">
+                            <ListView.ItemTemplate>
+                                <DataTemplate>
+                                    <StackPanel>
+                                        <TextBlock Text="{Binding Name}"
+                                                   FontSize="24"/>
+                                        <TextBlock Text="{Binding ResultGame}"
+                                                   Foreground="{Binding ColorResult}"/>
+                                        <TextBlock Text="{Binding StartSession, StringFormat='Началось в HH:mm dd.MM'}"/>
+                                        <TextBlock Text="{Binding EndSession, StringFormat='Закончилось в HH:mm dd.MM'}"/>
+                                        <Expander>
+                                            <ListView ItemsSource="{Binding RoundGame}"
+                                                      ScrollViewer.HorizontalScrollBarVisibility="Disabled">
+                                                <ListView.ItemTemplate>
+                                                    <DataTemplate>
+                                                        <StackPanel>
+                                                            <TextBlock Text="{Binding DataTime, StringFormat='HH:mm dd.MM.yyyy '}"/>
+                                                            <StackPanel Orientation="Horizontal">
+                                                                <TextBlock Text="{Binding ResultNumber}"/>
+                                                                <Ellipse Width="10"
+                                                                         Fill="{Binding ColorNumber}"/>
+                                                            </StackPanel>
+                                                            
+                                                            <TextBlock Foreground="{Binding  ColorWin}"
+Text="{Binding ReslutMoney}"/>
+                                                        </StackPanel>
+                                                    </DataTemplate>
+                                                </ListView.ItemTemplate>
+                                            </ListView>
+                                        </Expander>
+                                        
+
+
+                                    </StackPanel>
+                                </DataTemplate>
+                            </ListView.ItemTemplate>
+                        </ListView>
+                    </Grid>
+                </TabItem>
+
+            </TabControl>
+
+        
+    </Grid>
+</Page>
