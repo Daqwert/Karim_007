@@ -20,6 +20,7 @@
           <ScalarProperty Name="GameId" ColumnName="GameId" />
           <ScalarProperty Name="DateTime" ColumnName="DateTime" />
           <ScalarProperty Name="ResultNumber" ColumnName="ResultNumber" />
+          <ScalarProperty Name="ResultMoney" ColumnName="ResultMoney" />
         </MappingFragment>
       </EntityTypeMapping>
     </EntitySetMapping>

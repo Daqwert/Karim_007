@@ -64,8 +64,38 @@
       <Generator>MSBuild:Compile</Generator>
       <SubType>Designer</SubType>
     </ApplicationDefinition>
+    <Compile Include="Models\Game.cs">
+      <DependentUpon>ModelData.tt</DependentUpon>
+    </Compile>
+    <Compile Include="Models\ModelData.Context.cs">
+      <AutoGen>True</AutoGen>
+      <DesignTime>True</DesignTime>
+      <DependentUpon>ModelData.Context.tt</DependentUpon>
+    </Compile>
+    <Compile Include="Models\ModelData.cs">
+      <AutoGen>True</AutoGen>
+      <DesignTime>True</DesignTime>
+      <DependentUpon>ModelData.tt</DependentUpon>
+    </Compile>
+    <Compile Include="Models\ModelData.Designer.cs">
+      <AutoGen>True</AutoGen>
+      <DesignTime>True</DesignTime>
+      <DependentUpon>ModelData.edmx</DependentUpon>
+    </Compile>
     <Compile Include="Models\Partials\Game.cs" />
     <Compile Include="Models\Partials\RoundGame.cs" />
+    <Compile Include="Models\RoundGame.cs">
+      <DependentUpon>ModelData.tt</DependentUpon>
+    </Compile>
+    <Compile Include="Models\sysdiagrams.cs">
+      <DependentUpon>ModelData.tt</DependentUpon>
+    </Compile>
+    <Compile Include="Models\Transaction.cs">
+      <DependentUpon>ModelData.tt</DependentUpon>
+    </Compile>
+    <Compile Include="Models\User.cs">
+      <DependentUpon>ModelData.tt</DependentUpon>
+    </Compile>
     <Compile Include="Windows\TransactionWindows.xaml.cs">
       <DependentUpon>TransactionWindows.xaml</DependentUpon>
     </Compile>
@@ -108,39 +138,9 @@
   </ItemGroup>
   <ItemGroup>
     <Compile Include="Models\Bet.cs" />
-    <Compile Include="Models\Game.cs">
-      <DependentUpon>ModelData.tt</DependentUpon>
-    </Compile>
     <Compile Include="Models\MetaData\MetaUser.cs" />
-    <Compile Include="Models\ModelData.Context.cs">
-      <AutoGen>True</AutoGen>
-      <DesignTime>True</DesignTime>
-      <DependentUpon>ModelData.Context.tt</DependentUpon>
-    </Compile>
-    <Compile Include="Models\ModelData.cs">
-      <AutoGen>True</AutoGen>
-      <DesignTime>True</DesignTime>
-      <DependentUpon>ModelData.tt</DependentUpon>
-    </Compile>
-    <Compile Include="Models\ModelData.Designer.cs">
-      <AutoGen>True</AutoGen>
-      <DesignTime>True</DesignTime>
-      <DependentUpon>ModelData.edmx</DependentUpon>
-    </Compile>
     <Compile Include="Models\Partials\Transaction.cs" />
     <Compile Include="Models\Partials\User.cs" />
-    <Compile Include="Models\RoundGame.cs">
-      <DependentUpon>ModelData.tt</DependentUpon>
-    </Compile>
-    <Compile Include="Models\sysdiagrams.cs">
-      <DependentUpon>ModelData.tt</DependentUpon>
-    </Compile>
-    <Compile Include="Models\Transaction.cs">
-      <DependentUpon>ModelData.tt</DependentUpon>
-    </Compile>
-    <Compile Include="Models\User.cs">
-      <DependentUpon>ModelData.tt</DependentUpon>
-    </Compile>
     <Compile Include="Pages\LoginPage.xaml.cs">
       <DependentUpon>LoginPage.xaml</DependentUpon>
     </Compile>
@@ -190,6 +190,12 @@
     <None Include="App.config" />
   </ItemGroup>
   <ItemGroup>
+    <Resource Include="Resourses\CasinoImage.jpg" />
+  </ItemGroup>
+  <ItemGroup>
+    <Service Include="{508349B6-6B84-4DF5-91F0-309BEEBAD82D}" />
+  </ItemGroup>
+  <ItemGroup>
     <Content Include="Models\ModelData.Context.tt">
       <Generator>TextTemplatingFileGenerator</Generator>
       <DependentUpon>ModelData.edmx</DependentUpon>
@@ -200,12 +206,6 @@
       <DependentUpon>ModelData.edmx</DependentUpon>
       <LastGenOutput>ModelData.cs</LastGenOutput>
     </Content>
-  </ItemGroup>
-  <ItemGroup>
-    <Resource Include="Resourses\CasinoImage.jpg" />
-  </ItemGroup>
-  <ItemGroup>
-    <Service Include="{508349B6-6B84-4DF5-91F0-309BEEBAD82D}" />
   </ItemGroup>
   <Import Project="$(MSBuildToolsPath)\Microsoft.CSharp.targets" />
 </Project>

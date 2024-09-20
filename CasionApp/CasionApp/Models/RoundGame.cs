@@ -18,7 +18,8 @@ namespace CasionApp.Models
         public int GameId { get; set; }
         public System.DateTime DateTime { get; set; }
         public int ResultNumber { get; set; }
-        public int ReslutMoney { get; set; }
+        public int ResultMoney { get; set; }
+    
         public virtual Game Game { get; set; }
     }
 }

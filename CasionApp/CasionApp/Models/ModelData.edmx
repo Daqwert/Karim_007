@@ -24,6 +24,7 @@
           <Property Name="GameId" Type="int" Nullable="false" />
           <Property Name="DateTime" Type="datetime" Nullable="false" />
           <Property Name="ResultNumber" Type="int" Nullable="false" />
+          <Property Name="ResultMoney" Type="int" Nullable="false" />
         </EntityType>
         <EntityType Name="sysdiagrams">
           <Key>
@@ -135,6 +136,7 @@
           <Property Name="GameId" Type="Int32" Nullable="false" />
           <Property Name="DateTime" Type="DateTime" Nullable="false" Precision="3" />
           <Property Name="ResultNumber" Type="Int32" Nullable="false" />
+          <Property Name="ResultMoney" Type="Int32" Nullable="false" />
           <NavigationProperty Name="Game" Relationship="Self.FK_RoundGame_Game" FromRole="RoundGame" ToRole="Game" />
         </EntityType>
         <EntityType Name="sysdiagrams">
@@ -249,6 +251,7 @@
                 <ScalarProperty Name="GameId" ColumnName="GameId" />
                 <ScalarProperty Name="DateTime" ColumnName="DateTime" />
                 <ScalarProperty Name="ResultNumber" ColumnName="ResultNumber" />
+                <ScalarProperty Name="ResultMoney" ColumnName="ResultMoney" />
               </MappingFragment>
             </EntityTypeMapping>
           </EntitySetMapping>

@@ -13,7 +13,7 @@ namespace CasionApp.Models
         {
             get
             {
-                return ReslutMoney > 0 ? Brushes.Green : Brushes.Red;
+                return ResultMoney > 0 ? Brushes.Green : Brushes.Red;
             }
         }
         public SolidColorBrush ColorNumber

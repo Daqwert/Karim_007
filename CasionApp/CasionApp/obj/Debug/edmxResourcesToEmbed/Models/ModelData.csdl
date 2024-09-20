@@ -21,6 +21,7 @@
     <Property Name="GameId" Type="Int32" Nullable="false" />
     <Property Name="DateTime" Type="DateTime" Nullable="false" Precision="3" />
     <Property Name="ResultNumber" Type="Int32" Nullable="false" />
+    <Property Name="ResultMoney" Type="Int32" Nullable="false" />
     <NavigationProperty Name="Game" Relationship="Self.FK_RoundGame_Game" FromRole="RoundGame" ToRole="Game" />
   </EntityType>
   <EntityType Name="sysdiagrams">

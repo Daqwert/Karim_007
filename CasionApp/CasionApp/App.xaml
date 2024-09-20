@@ -4,6 +4,43 @@
              xmlns:local="clr-namespace:CasionApp"
              StartupUri="MainWindow.xaml">
     <Application.Resources>
-         
+        <Style TargetType="Button">
+            <Setter Property="Background"
+                    Value="White"/>
+            <Setter Property="Margin"
+                    Value="5"/>
+            <Style.Resources>
+                <Style TargetType="Border">
+                    <Setter Property="CornerRadius"
+                            Value="5"/>
+                </Style>
+            </Style.Resources>
+        </Style>
+        <Style TargetType="TextBlock">
+            <Setter Property="Margin"
+        Value="2"/>
+            <Setter Property="FontSize"
+                    Value="20"/>
+        </Style>
+        <Style TargetType="TextBox">
+            <Setter Property="Margin"
+        Value="2"/>
+            <Setter Property="FontSize"
+                    Value="20"/>
+            <Style.Resources>
+                <Style TargetType="Border">
+                    <Setter Property="CornerRadius"
+                            Value="5"/>
+                </Style>
+            </Style.Resources>
+        </Style>
+
+        <Style TargetType="StackPanel">
+            <Setter Property="VerticalAlignment"
+                    Value="Center"/>
+            
+            
+        </Style>
+
     </Application.Resources>
 </Application>

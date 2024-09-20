@@ -97,7 +97,7 @@ namespace CasionApp.Pages
                         winnigMoney -= BetMoney;
                         
                 }
-                gameRound.ReslutMoney = winnigMoney;
+                gameRound.ResultMoney = winnigMoney;
                 App.DB.RoundGame.Add(gameRound);
                 App.DB.SaveChanges();
                 contextGame.ResultGame += winnigMoney;

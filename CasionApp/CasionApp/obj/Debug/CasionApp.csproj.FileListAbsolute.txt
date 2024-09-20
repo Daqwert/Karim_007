@@ -32,5 +32,4 @@ C:\Users\Aidar\source\repos\CasinoApp\CasionApp\CasionApp\obj\Debug\Pages\MainPa
 C:\Users\Aidar\source\repos\CasinoApp\CasionApp\CasionApp\obj\Debug\Pages\ProfilePage.baml
 C:\Users\Aidar\source\repos\CasinoApp\CasionApp\CasionApp\obj\Debug\Windows\TransactionWindows.g.cs
 C:\Users\Aidar\source\repos\CasinoApp\CasionApp\CasionApp\obj\Debug\Windows\TransactionWindows.baml
-C:\Users\Aidar\source\repos\CasinoApp\CasionApp\CasionApp\obj\Debug\Windows\ReportWindow.g.cs
-C:\Users\Aidar\source\repos\CasinoApp\CasionApp\CasionApp\obj\Debug\Windows\ReportWindow.baml
+C:\Users\Aidar\source\repos\CasinoApp\CasionApp\CasionApp\obj\Debug\App.baml

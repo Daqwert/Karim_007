@@ -19,6 +19,7 @@
     <Property Name="GameId" Type="int" Nullable="false" />
     <Property Name="DateTime" Type="datetime" Nullable="false" />
     <Property Name="ResultNumber" Type="int" Nullable="false" />
+    <Property Name="ResultMoney" Type="int" Nullable="false" />
   </EntityType>
   <EntityType Name="sysdiagrams">
     <Key>
