@@ -3,12 +3,20 @@
   "WorkspaceRootPath": "C:\\Users\\Aidar\\source\\repos\\CasinoApp\\CasionApp\\",
   "Documents": [
     {
-      "AbsoluteMoniker": "D:0:0:{9597CD4D-6E96-450A-ADE0-C2D7951B12F3}|CasionApp\\CasionApp.csproj|c:\\users\\aidar\\source\\repos\\casinoapp\\casionapp\\casionapp\\app.xaml||{F11ACC28-31D1-4C80-A34B-F4E09D3D753C}",
+      "AbsoluteMoniker": "D:0:0:{9597CD4D-6E96-450A-ADE0-C2D7951B12F3}|CasionApp\\CasionApp.csproj|c:\\users\\aidar\\source\\repos\\casinoapp\\casionapp\\casionapp\\mainwindow.xaml||{F11ACC28-31D1-4C80-A34B-F4E09D3D753C}",
+      "RelativeMoniker": "D:0:0:{9597CD4D-6E96-450A-ADE0-C2D7951B12F3}|CasionApp\\CasionApp.csproj|solutionrelative:casionapp\\mainwindow.xaml||{F11ACC28-31D1-4C80-A34B-F4E09D3D753C}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{9597CD4D-6E96-450A-ADE0-C2D7951B12F3}|CasionApp\\CasionApp.csproj|C:\\Users\\Aidar\\source\\repos\\CasinoApp\\CasionApp\\casionapp\\app.xaml||{F11ACC28-31D1-4C80-A34B-F4E09D3D753C}",
       "RelativeMoniker": "D:0:0:{9597CD4D-6E96-450A-ADE0-C2D7951B12F3}|CasionApp\\CasionApp.csproj|solutionrelative:casionapp\\app.xaml||{F11ACC28-31D1-4C80-A34B-F4E09D3D753C}"
     },
     {
       "AbsoluteMoniker": "D:0:0:{9597CD4D-6E96-450A-ADE0-C2D7951B12F3}|CasionApp\\CasionApp.csproj|C:\\Users\\Aidar\\source\\repos\\CasinoApp\\CasionApp\\casionapp\\app.xaml.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
       "RelativeMoniker": "D:0:0:{9597CD4D-6E96-450A-ADE0-C2D7951B12F3}|CasionApp\\CasionApp.csproj|solutionrelative:casionapp\\app.xaml.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{9597CD4D-6E96-450A-ADE0-C2D7951B12F3}|CasionApp\\CasionApp.csproj|C:\\Users\\Aidar\\source\\repos\\CasinoApp\\CasionApp\\casionapp\\pages\\regestrationpage.xaml||{F11ACC28-31D1-4C80-A34B-F4E09D3D753C}",
+      "RelativeMoniker": "D:0:0:{9597CD4D-6E96-450A-ADE0-C2D7951B12F3}|CasionApp\\CasionApp.csproj|solutionrelative:casionapp\\pages\\regestrationpage.xaml||{F11ACC28-31D1-4C80-A34B-F4E09D3D753C}"
     },
     {
       "AbsoluteMoniker": "D:0:0:{9597CD4D-6E96-450A-ADE0-C2D7951B12F3}|CasionApp\\CasionApp.csproj|C:\\Users\\Aidar\\source\\repos\\CasinoApp\\CasionApp\\casionapp\\models\\partials\\roundgame.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
@@ -19,19 +27,19 @@
       "RelativeMoniker": "D:0:0:{9597CD4D-6E96-450A-ADE0-C2D7951B12F3}|CasionApp\\CasionApp.csproj|solutionrelative:casionapp\\pages\\roulettepage.xaml.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{9597CD4D-6E96-450A-ADE0-C2D7951B12F3}|CasionApp\\CasionApp.csproj|c:\\users\\aidar\\source\\repos\\casinoapp\\casionapp\\casionapp\\models\\roundgame.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "AbsoluteMoniker": "D:0:0:{9597CD4D-6E96-450A-ADE0-C2D7951B12F3}|CasionApp\\CasionApp.csproj|C:\\Users\\Aidar\\source\\repos\\CasinoApp\\CasionApp\\casionapp\\models\\roundgame.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
       "RelativeMoniker": "D:0:0:{9597CD4D-6E96-450A-ADE0-C2D7951B12F3}|CasionApp\\CasionApp.csproj|solutionrelative:casionapp\\models\\roundgame.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{9597CD4D-6E96-450A-ADE0-C2D7951B12F3}|CasionApp\\CasionApp.csproj|c:\\users\\aidar\\source\\repos\\casinoapp\\casionapp\\casionapp\\models\\game.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "AbsoluteMoniker": "D:0:0:{9597CD4D-6E96-450A-ADE0-C2D7951B12F3}|CasionApp\\CasionApp.csproj|C:\\Users\\Aidar\\source\\repos\\CasinoApp\\CasionApp\\casionapp\\models\\game.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
       "RelativeMoniker": "D:0:0:{9597CD4D-6E96-450A-ADE0-C2D7951B12F3}|CasionApp\\CasionApp.csproj|solutionrelative:casionapp\\models\\game.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{9597CD4D-6E96-450A-ADE0-C2D7951B12F3}|CasionApp\\CasionApp.csproj|c:\\users\\aidar\\source\\repos\\casinoapp\\casionapp\\casionapp\\models\\user.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "AbsoluteMoniker": "D:0:0:{9597CD4D-6E96-450A-ADE0-C2D7951B12F3}|CasionApp\\CasionApp.csproj|C:\\Users\\Aidar\\source\\repos\\CasinoApp\\CasionApp\\casionapp\\models\\user.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
       "RelativeMoniker": "D:0:0:{9597CD4D-6E96-450A-ADE0-C2D7951B12F3}|CasionApp\\CasionApp.csproj|solutionrelative:casionapp\\models\\user.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{9597CD4D-6E96-450A-ADE0-C2D7951B12F3}|CasionApp\\CasionApp.csproj|c:\\users\\aidar\\source\\repos\\casinoapp\\casionapp\\casionapp\\models\\modeldata.edmx||{C99AEA30-8E36-4515-B76F-496F5A48A6AA}|",
+      "AbsoluteMoniker": "D:0:0:{9597CD4D-6E96-450A-ADE0-C2D7951B12F3}|CasionApp\\CasionApp.csproj|C:\\Users\\Aidar\\source\\repos\\CasinoApp\\CasionApp\\casionapp\\models\\modeldata.edmx||{C99AEA30-8E36-4515-B76F-496F5A48A6AA}|",
       "RelativeMoniker": "D:0:0:{9597CD4D-6E96-450A-ADE0-C2D7951B12F3}|CasionApp\\CasionApp.csproj|solutionrelative:casionapp\\models\\modeldata.edmx||{C99AEA30-8E36-4515-B76F-496F5A48A6AA}|"
     },
     {
@@ -39,7 +47,7 @@
       "RelativeMoniker": "D:0:0:{9597CD4D-6E96-450A-ADE0-C2D7951B12F3}|CasionApp\\CasionApp.csproj|solutionrelative:casionapp\\app.config||{FA3CD31E-987B-443A-9B81-186104E8DAC1}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{9597CD4D-6E96-450A-ADE0-C2D7951B12F3}|CasionApp\\CasionApp.csproj|c:\\users\\aidar\\source\\repos\\casinoapp\\casionapp\\casionapp\\pages\\profilepage.xaml||{F11ACC28-31D1-4C80-A34B-F4E09D3D753C}",
+      "AbsoluteMoniker": "D:0:0:{9597CD4D-6E96-450A-ADE0-C2D7951B12F3}|CasionApp\\CasionApp.csproj|C:\\Users\\Aidar\\source\\repos\\CasinoApp\\CasionApp\\casionapp\\pages\\profilepage.xaml||{F11ACC28-31D1-4C80-A34B-F4E09D3D753C}",
       "RelativeMoniker": "D:0:0:{9597CD4D-6E96-450A-ADE0-C2D7951B12F3}|CasionApp\\CasionApp.csproj|solutionrelative:casionapp\\pages\\profilepage.xaml||{F11ACC28-31D1-4C80-A34B-F4E09D3D753C}"
     },
     {
@@ -55,20 +63,8 @@
       "RelativeMoniker": "D:0:0:{9597CD4D-6E96-450A-ADE0-C2D7951B12F3}|CasionApp\\CasionApp.csproj|solutionrelative:casionapp\\pages\\mainpage.xaml.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{9597CD4D-6E96-450A-ADE0-C2D7951B12F3}|CasionApp\\CasionApp.csproj|C:\\Users\\Aidar\\source\\repos\\CasinoApp\\CasionApp\\casionapp\\mainwindow.xaml||{F11ACC28-31D1-4C80-A34B-F4E09D3D753C}",
-      "RelativeMoniker": "D:0:0:{9597CD4D-6E96-450A-ADE0-C2D7951B12F3}|CasionApp\\CasionApp.csproj|solutionrelative:casionapp\\mainwindow.xaml||{F11ACC28-31D1-4C80-A34B-F4E09D3D753C}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{9597CD4D-6E96-450A-ADE0-C2D7951B12F3}|CasionApp\\CasionApp.csproj|C:\\Users\\Aidar\\source\\repos\\CasinoApp\\CasionApp\\casionapp\\mainwindow.xaml.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{9597CD4D-6E96-450A-ADE0-C2D7951B12F3}|CasionApp\\CasionApp.csproj|solutionrelative:casionapp\\mainwindow.xaml.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
-    },
-    {
       "AbsoluteMoniker": "D:0:0:{9597CD4D-6E96-450A-ADE0-C2D7951B12F3}|CasionApp\\CasionApp.csproj|C:\\Users\\Aidar\\source\\repos\\CasinoApp\\CasionApp\\casionapp\\pages\\regestrationpage.xaml.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
       "RelativeMoniker": "D:0:0:{9597CD4D-6E96-450A-ADE0-C2D7951B12F3}|CasionApp\\CasionApp.csproj|solutionrelative:casionapp\\pages\\regestrationpage.xaml.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{9597CD4D-6E96-450A-ADE0-C2D7951B12F3}|CasionApp\\CasionApp.csproj|C:\\Users\\Aidar\\source\\repos\\CasinoApp\\CasionApp\\casionapp\\pages\\regestrationpage.xaml||{F11ACC28-31D1-4C80-A34B-F4E09D3D753C}",
-      "RelativeMoniker": "D:0:0:{9597CD4D-6E96-450A-ADE0-C2D7951B12F3}|CasionApp\\CasionApp.csproj|solutionrelative:casionapp\\pages\\regestrationpage.xaml||{F11ACC28-31D1-4C80-A34B-F4E09D3D753C}"
     },
     {
       "AbsoluteMoniker": "D:0:0:{9597CD4D-6E96-450A-ADE0-C2D7951B12F3}|CasionApp\\CasionApp.csproj|C:\\Users\\Aidar\\source\\repos\\CasinoApp\\CasionApp\\casionapp\\models\\partials\\user.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
@@ -118,62 +114,11 @@
       "DocumentGroups": [
         {
           "DockedWidth": 200,
-          "SelectedChildIndex": 3,
+          "SelectedChildIndex": 4,
           "Children": [
             {
               "$type": "Document",
               "DocumentIndex": 4,
-              "Title": "RoundGame.cs",
-              "DocumentMoniker": "C:\\Users\\Aidar\\source\\repos\\CasinoApp\\CasionApp\\CasionApp\\Models\\RoundGame.cs",
-              "RelativeDocumentMoniker": "CasionApp\\Models\\RoundGame.cs",
-              "ToolTip": "C:\\Users\\Aidar\\source\\repos\\CasinoApp\\CasionApp\\CasionApp\\Models\\RoundGame.cs",
-              "RelativeToolTip": "CasionApp\\Models\\RoundGame.cs",
-              "ViewState": "AgIAAAYAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2024-09-20T17:29:30.86Z",
-              "EditorCaption": ""
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 5,
-              "Title": "Game.cs",
-              "DocumentMoniker": "C:\\Users\\Aidar\\source\\repos\\CasinoApp\\CasionApp\\CasionApp\\Models\\Game.cs",
-              "RelativeDocumentMoniker": "CasionApp\\Models\\Game.cs",
-              "ToolTip": "C:\\Users\\Aidar\\source\\repos\\CasinoApp\\CasionApp\\CasionApp\\Models\\Game.cs",
-              "RelativeToolTip": "CasionApp\\Models\\Game.cs",
-              "ViewState": "AgIAABEAAAAAAAAAAAAQwAAAAAAAAAAAAAAAAA==",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2024-09-20T17:29:21.344Z",
-              "EditorCaption": ""
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 6,
-              "Title": "User.cs",
-              "DocumentMoniker": "C:\\Users\\Aidar\\source\\repos\\CasinoApp\\CasionApp\\CasionApp\\Models\\User.cs",
-              "RelativeDocumentMoniker": "CasionApp\\Models\\User.cs",
-              "ToolTip": "C:\\Users\\Aidar\\source\\repos\\CasinoApp\\CasionApp\\CasionApp\\Models\\User.cs",
-              "RelativeToolTip": "CasionApp\\Models\\User.cs",
-              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2024-09-20T17:29:18.562Z",
-              "EditorCaption": ""
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 0,
-              "Title": "App.xaml",
-              "DocumentMoniker": "C:\\Users\\Aidar\\source\\repos\\CasinoApp\\CasionApp\\CasionApp\\App.xaml",
-              "RelativeDocumentMoniker": "CasionApp\\App.xaml",
-              "ToolTip": "C:\\Users\\Aidar\\source\\repos\\CasinoApp\\CasionApp\\CasionApp\\App.xaml*",
-              "RelativeToolTip": "CasionApp\\App.xaml*",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.003549|",
-              "WhenOpened": "2024-09-20T17:24:38.081Z",
-              "EditorCaption": ""
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 2,
               "Title": "RoundGame.cs",
               "DocumentMoniker": "C:\\Users\\Aidar\\source\\repos\\CasinoApp\\CasionApp\\CasionApp\\Models\\Partials\\RoundGame.cs",
               "RelativeDocumentMoniker": "CasionApp\\Models\\Partials\\RoundGame.cs",
@@ -181,12 +126,11 @@
               "RelativeToolTip": "CasionApp\\Models\\Partials\\RoundGame.cs",
               "ViewState": "AgIAAAsAAAAAAAAAAIA1wA8AAAAdAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2024-09-20T16:38:54.706Z",
-              "EditorCaption": ""
+              "WhenOpened": "2024-09-20T16:38:54.706Z"
             },
             {
               "$type": "Document",
-              "DocumentIndex": 3,
+              "DocumentIndex": 5,
               "Title": "RoulettePage.xaml.cs",
               "DocumentMoniker": "C:\\Users\\Aidar\\source\\repos\\CasinoApp\\CasionApp\\CasionApp\\Pages\\RoulettePage.xaml.cs",
               "RelativeDocumentMoniker": "CasionApp\\Pages\\RoulettePage.xaml.cs",
@@ -194,12 +138,11 @@
               "RelativeToolTip": "CasionApp\\Pages\\RoulettePage.xaml.cs",
               "ViewState": "AgIAAFYAAAAAAAAAAAAhwGMAAAAfAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2024-09-20T11:29:31.07Z",
-              "EditorCaption": ""
+              "WhenOpened": "2024-09-20T11:29:31.07Z"
             },
             {
               "$type": "Document",
-              "DocumentIndex": 1,
+              "DocumentIndex": 2,
               "Title": "App.xaml.cs",
               "DocumentMoniker": "C:\\Users\\Aidar\\source\\repos\\CasinoApp\\CasionApp\\CasionApp\\App.xaml.cs",
               "RelativeDocumentMoniker": "CasionApp\\App.xaml.cs",
@@ -207,24 +150,70 @@
               "RelativeToolTip": "CasionApp\\App.xaml.cs",
               "ViewState": "AgIAAA8AAAAAAAAAAAAiwBcAAAAkAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2024-09-20T11:45:48.325Z",
+              "WhenOpened": "2024-09-20T11:45:48.325Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 3,
+              "Title": "RegestrationPage.xaml",
+              "DocumentMoniker": "C:\\Users\\Aidar\\source\\repos\\CasinoApp\\CasionApp\\CasionApp\\Pages\\RegestrationPage.xaml",
+              "RelativeDocumentMoniker": "CasionApp\\Pages\\RegestrationPage.xaml",
+              "ToolTip": "C:\\Users\\Aidar\\source\\repos\\CasinoApp\\CasionApp\\CasionApp\\Pages\\RegestrationPage.xaml",
+              "RelativeToolTip": "CasionApp\\Pages\\RegestrationPage.xaml",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.003549|",
+              "WhenOpened": "2024-09-20T11:39:57.26Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "MainWindow.xaml",
+              "DocumentMoniker": "C:\\Users\\Aidar\\source\\repos\\CasinoApp\\CasionApp\\CasionApp\\MainWindow.xaml",
+              "RelativeDocumentMoniker": "CasionApp\\MainWindow.xaml",
+              "ToolTip": "C:\\Users\\Aidar\\source\\repos\\CasinoApp\\CasionApp\\CasionApp\\MainWindow.xaml*",
+              "RelativeToolTip": "CasionApp\\MainWindow.xaml*",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.003549|",
+              "WhenOpened": "2024-09-20T11:13:59.199Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 8,
+              "Title": "User.cs",
+              "DocumentMoniker": "C:\\Users\\Aidar\\source\\repos\\CasinoApp\\CasionApp\\CasionApp\\Models\\User.cs",
+              "RelativeDocumentMoniker": "CasionApp\\Models\\User.cs",
+              "ToolTip": "C:\\Users\\Aidar\\source\\repos\\CasinoApp\\CasionApp\\CasionApp\\Models\\User.cs",
+              "RelativeToolTip": "CasionApp\\Models\\User.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-09-20T17:29:18.562Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "App.xaml",
+              "DocumentMoniker": "C:\\Users\\Aidar\\source\\repos\\CasinoApp\\CasionApp\\CasionApp\\App.xaml",
+              "RelativeDocumentMoniker": "CasionApp\\App.xaml",
+              "ToolTip": "C:\\Users\\Aidar\\source\\repos\\CasinoApp\\CasionApp\\CasionApp\\App.xaml",
+              "RelativeToolTip": "CasionApp\\App.xaml",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.003549|",
+              "WhenOpened": "2024-09-20T17:24:38.081Z",
               "EditorCaption": ""
             },
             {
               "$type": "Document",
               "DocumentIndex": 7,
-              "Title": "ModelData.edmx [Diagram1]",
-              "DocumentMoniker": "C:\\Users\\Aidar\\source\\repos\\CasinoApp\\CasionApp\\CasionApp\\Models\\ModelData.edmx",
-              "RelativeDocumentMoniker": "CasionApp\\Models\\ModelData.edmx",
-              "ToolTip": "C:\\Users\\Aidar\\source\\repos\\CasinoApp\\CasionApp\\CasionApp\\Models\\ModelData.edmx [Diagram1]",
-              "RelativeToolTip": "CasionApp\\Models\\ModelData.edmx [Diagram1]",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.001116|",
-              "WhenOpened": "2024-09-20T17:23:20.028Z",
-              "EditorCaption": " [Diagram1]"
+              "Title": "Game.cs",
+              "DocumentMoniker": "C:\\Users\\Aidar\\source\\repos\\CasinoApp\\CasionApp\\CasionApp\\Models\\Game.cs",
+              "RelativeDocumentMoniker": "CasionApp\\Models\\Game.cs",
+              "ToolTip": "C:\\Users\\Aidar\\source\\repos\\CasinoApp\\CasionApp\\CasionApp\\Models\\Game.cs",
+              "RelativeToolTip": "CasionApp\\Models\\Game.cs",
+              "ViewState": "AgIAABEAAAAAAAAAAAAQwAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-09-20T17:29:21.344Z"
             },
             {
               "$type": "Document",
-              "DocumentIndex": 10,
+              "DocumentIndex": 12,
               "Title": "ProfilePage.xaml.cs",
               "DocumentMoniker": "C:\\Users\\Aidar\\source\\repos\\CasinoApp\\CasionApp\\CasionApp\\Pages\\ProfilePage.xaml.cs",
               "RelativeDocumentMoniker": "CasionApp\\Pages\\ProfilePage.xaml.cs",
@@ -236,19 +225,18 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 9,
+              "DocumentIndex": 11,
               "Title": "ProfilePage.xaml",
               "DocumentMoniker": "C:\\Users\\Aidar\\source\\repos\\CasinoApp\\CasionApp\\CasionApp\\Pages\\ProfilePage.xaml",
               "RelativeDocumentMoniker": "CasionApp\\Pages\\ProfilePage.xaml",
               "ToolTip": "C:\\Users\\Aidar\\source\\repos\\CasinoApp\\CasionApp\\CasionApp\\Pages\\ProfilePage.xaml",
               "RelativeToolTip": "CasionApp\\Pages\\ProfilePage.xaml",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.003549|",
-              "WhenOpened": "2024-09-20T14:55:52.855Z",
-              "EditorCaption": ""
+              "WhenOpened": "2024-09-20T14:55:52.855Z"
             },
             {
               "$type": "Document",
-              "DocumentIndex": 12,
+              "DocumentIndex": 14,
               "Title": "MainPage.xaml.cs",
               "DocumentMoniker": "C:\\Users\\Aidar\\source\\repos\\CasinoApp\\CasionApp\\CasionApp\\Pages\\MainPage.xaml.cs",
               "RelativeDocumentMoniker": "CasionApp\\Pages\\MainPage.xaml.cs",
@@ -260,7 +248,7 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 8,
+              "DocumentIndex": 10,
               "Title": "App.config",
               "DocumentMoniker": "C:\\Users\\Aidar\\source\\repos\\CasinoApp\\CasionApp\\CasionApp\\App.config",
               "RelativeDocumentMoniker": "CasionApp\\App.config",
@@ -268,12 +256,11 @@
               "RelativeToolTip": "CasionApp\\App.config",
               "ViewState": "AgIAAAAAAAAAAAAAAAAAABQAAAAQAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000601|",
-              "WhenOpened": "2024-09-20T13:59:30.308Z",
-              "EditorCaption": ""
+              "WhenOpened": "2024-09-20T13:59:30.308Z"
             },
             {
               "$type": "Document",
-              "DocumentIndex": 11,
+              "DocumentIndex": 13,
               "Title": "Game.cs",
               "DocumentMoniker": "C:\\Users\\Aidar\\source\\repos\\CasinoApp\\CasionApp\\CasionApp\\Models\\Partials\\Game.cs",
               "RelativeDocumentMoniker": "CasionApp\\Models\\Partials\\Game.cs",
@@ -285,26 +272,15 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 13,
-              "Title": "MainWindow.xaml",
-              "DocumentMoniker": "C:\\Users\\Aidar\\source\\repos\\CasinoApp\\CasionApp\\CasionApp\\MainWindow.xaml",
-              "RelativeDocumentMoniker": "CasionApp\\MainWindow.xaml",
-              "ToolTip": "C:\\Users\\Aidar\\source\\repos\\CasinoApp\\CasionApp\\CasionApp\\MainWindow.xaml",
-              "RelativeToolTip": "CasionApp\\MainWindow.xaml",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.003549|",
-              "WhenOpened": "2024-09-20T11:13:59.199Z"
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 14,
-              "Title": "MainWindow.xaml.cs",
-              "DocumentMoniker": "C:\\Users\\Aidar\\source\\repos\\CasinoApp\\CasionApp\\CasionApp\\MainWindow.xaml.cs",
-              "RelativeDocumentMoniker": "CasionApp\\MainWindow.xaml.cs",
-              "ToolTip": "C:\\Users\\Aidar\\source\\repos\\CasinoApp\\CasionApp\\CasionApp\\MainWindow.xaml.cs",
-              "RelativeToolTip": "CasionApp\\MainWindow.xaml.cs",
-              "ViewState": "AgIAABAAAAAAAAAAAAAAAB8AAAAAAAAAAAAAAA==",
+              "DocumentIndex": 6,
+              "Title": "RoundGame.cs",
+              "DocumentMoniker": "C:\\Users\\Aidar\\source\\repos\\CasinoApp\\CasionApp\\CasionApp\\Models\\RoundGame.cs",
+              "RelativeDocumentMoniker": "CasionApp\\Models\\RoundGame.cs",
+              "ToolTip": "C:\\Users\\Aidar\\source\\repos\\CasinoApp\\CasionApp\\CasionApp\\Models\\RoundGame.cs",
+              "RelativeToolTip": "CasionApp\\Models\\RoundGame.cs",
+              "ViewState": "AgIAAAYAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2024-09-20T11:13:31.987Z"
+              "WhenOpened": "2024-09-20T17:29:30.86Z"
             },
             {
               "$type": "Document",
@@ -320,7 +296,7 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 18,
+              "DocumentIndex": 17,
               "Title": "Transaction.cs",
               "DocumentMoniker": "C:\\Users\\Aidar\\source\\repos\\CasinoApp\\CasionApp\\CasionApp\\Models\\Partials\\Transaction.cs",
               "RelativeDocumentMoniker": "CasionApp\\Models\\Partials\\Transaction.cs",
@@ -332,7 +308,7 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 19,
+              "DocumentIndex": 18,
               "Title": "Windows\\TransactionWindows.xaml.cs",
               "DocumentMoniker": "C:\\Users\\Aidar\\source\\repos\\CasinoApp\\CasionApp\\CasionApp\\Windows\\TransactionWindows.xaml.cs",
               "RelativeDocumentMoniker": "CasionApp\\Windows\\TransactionWindows.xaml.cs",
@@ -344,7 +320,7 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 17,
+              "DocumentIndex": 16,
               "Title": "User.cs",
               "DocumentMoniker": "C:\\Users\\Aidar\\source\\repos\\CasinoApp\\CasionApp\\CasionApp\\Models\\Partials\\User.cs",
               "RelativeDocumentMoniker": "CasionApp\\Models\\Partials\\User.cs",
@@ -356,18 +332,18 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 16,
-              "Title": "RegestrationPage.xaml",
-              "DocumentMoniker": "C:\\Users\\Aidar\\source\\repos\\CasinoApp\\CasionApp\\CasionApp\\Pages\\RegestrationPage.xaml",
-              "RelativeDocumentMoniker": "CasionApp\\Pages\\RegestrationPage.xaml",
-              "ToolTip": "C:\\Users\\Aidar\\source\\repos\\CasinoApp\\CasionApp\\CasionApp\\Pages\\RegestrationPage.xaml",
-              "RelativeToolTip": "CasionApp\\Pages\\RegestrationPage.xaml",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.003549|",
-              "WhenOpened": "2024-09-20T11:39:57.26Z"
+              "DocumentIndex": 9,
+              "Title": "ModelData.edmx [Diagram1]",
+              "DocumentMoniker": "C:\\Users\\Aidar\\source\\repos\\CasinoApp\\CasionApp\\CasionApp\\Models\\ModelData.edmx",
+              "RelativeDocumentMoniker": "CasionApp\\Models\\ModelData.edmx",
+              "ToolTip": "C:\\Users\\Aidar\\source\\repos\\CasinoApp\\CasionApp\\CasionApp\\Models\\ModelData.edmx [Diagram1]",
+              "RelativeToolTip": "CasionApp\\Models\\ModelData.edmx [Diagram1]",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.001116|",
+              "WhenOpened": "2024-09-20T17:23:20.028Z"
             },
             {
               "$type": "Document",
-              "DocumentIndex": 21,
+              "DocumentIndex": 20,
               "Title": "LoginPage.xaml.cs",
               "DocumentMoniker": "C:\\Users\\Aidar\\source\\repos\\CasinoApp\\CasionApp\\CasionApp\\Pages\\LoginPage.xaml.cs",
               "RelativeDocumentMoniker": "CasionApp\\Pages\\LoginPage.xaml.cs",
@@ -379,7 +355,7 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 20,
+              "DocumentIndex": 19,
               "Title": "TransactionWindows.xaml",
               "DocumentMoniker": "C:\\Users\\Aidar\\source\\repos\\CasinoApp\\CasionApp\\CasionApp\\Windows\\TransactionWindows.xaml",
               "RelativeDocumentMoniker": "CasionApp\\Windows\\TransactionWindows.xaml",
@@ -390,7 +366,7 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 22,
+              "DocumentIndex": 21,
               "Title": "MainPage.xaml",
               "DocumentMoniker": "C:\\Users\\Aidar\\source\\repos\\CasinoApp\\CasionApp\\CasionApp\\Pages\\MainPage.xaml",
               "RelativeDocumentMoniker": "CasionApp\\Pages\\MainPage.xaml",
@@ -401,7 +377,7 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 23,
+              "DocumentIndex": 22,
               "Title": "RoulettePage.xaml",
               "DocumentMoniker": "C:\\Users\\Aidar\\source\\repos\\CasinoApp\\CasionApp\\CasionApp\\Pages\\RoulettePage.xaml",
               "RelativeDocumentMoniker": "CasionApp\\Pages\\RoulettePage.xaml",
@@ -412,7 +388,7 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 25,
+              "DocumentIndex": 24,
               "Title": "LoginPage.xaml",
               "DocumentMoniker": "C:\\Users\\Aidar\\source\\repos\\CasinoApp\\CasionApp\\CasionApp\\Pages\\LoginPage.xaml",
               "RelativeDocumentMoniker": "CasionApp\\Pages\\LoginPage.xaml",
@@ -423,7 +399,7 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 24,
+              "DocumentIndex": 23,
               "Title": "Bet.cs",
               "DocumentMoniker": "C:\\Users\\Aidar\\source\\repos\\CasinoApp\\CasionApp\\CasionApp\\Models\\Bet.cs",
               "RelativeDocumentMoniker": "CasionApp\\Models\\Bet.cs",
@@ -435,7 +411,7 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 26,
+              "DocumentIndex": 25,
               "Title": "MetaUser.cs",
               "DocumentMoniker": "C:\\Users\\Aidar\\source\\repos\\CasinoApp\\CasionApp\\CasionApp\\Models\\MetaData\\MetaUser.cs",
               "RelativeDocumentMoniker": "CasionApp\\Models\\MetaData\\MetaUser.cs",
